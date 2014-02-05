@@ -1,0 +1,45 @@
+bit360
+	- C++ CAC/PIV custom library for Win32 and WinCE 5
+		- CHUID
+		- FASCN
+		- PIV Printed
+		- facial image display
+		- CAC person
+	- C# sample API code
+	
+bva 
+	- C++ CAC/PIV custom library for Win32 and WinCE 5
+		- CHUID
+		- facial image
+		- FASCN
+		- PIV Printed
+		- fingerprint
+	- iClass card # read
+	- C# sample API code
+	
+CL ID Reader
+	- keyboard emulation
+	- FASCN (typical PACS or custom output)
+	- Prox / iClass (parsed is necessary)
+	
+CITI
+	- C++ Mifare Classic / DESFire custom library
+	- C# sample API code
+	
+Dynatouch
+	- VB6 CAC custom library
+	- VB6 sample API code for embedded reader support requiring custom command wrapping
+	
+Gonzaga
+	- custom Mifare Classic app
+
+Linkstream
+	- custom firmware for wiegend -> USB converter
+	
+Nordstrom
+	- Hirsch install and configuration with no Velocity, all programming through ScramblePad
+	
+Optimedica
+	- 
+	
+
